@@ -19,8 +19,8 @@
       "map": "MAP_OLDALE_TOWN"
     },
     {
-      "direction": "down",
-      "offset": 0,
+      "direction": "up",
+      "offset": 3,
       "map": "MAP_LITTLEROOT_TOWN"
     }
   ],
