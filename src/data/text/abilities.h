@@ -1,3 +1,4 @@
+
 static const u8 sNoneDescription[] = _("No special ability.");
 static const u8 sStenchDescription[] = _("Helps repel wild POKéMON.");
 static const u8 sDrizzleDescription[] = _("Summons rain in battle.");
